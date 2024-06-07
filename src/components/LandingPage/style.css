@@ -1,0 +1,21 @@
+
+.scale {
+    background-image: url('/src/assets/Images/Landingpage/Scale.svg');
+    /* width: '775px';
+    height: '625px'; */
+    /* top: '223px'; */
+    background-size: 'cover';
+    background-position: center; 
+    background-repeat:no-repeat;
+}
+
+.water {
+    background-image: url('/src/assets/Images/Landingpage/Pourdrink.svg');
+    /* width: '775px';
+    height: '625px'; */
+    /* top: '223px'; */
+    background-size: 'contain';
+    background-position: left; 
+    background-repeat:no-repeat;
+}
+

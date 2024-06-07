@@ -1,0 +1,16 @@
+.picker {
+    background-image: url('/src/assets/Images/Aboutpage/Bgegans.svg');
+    background-size: 'cover';
+    background-position: center center; 
+    background-repeat: repeat;
+}
+
+.about {
+    background-image: url('/src/assets/Images/Navbar/Purity.svg');
+    /* width: '775px';
+    height: '625px'; */
+    /* top: '223px'; */
+    background-size: 'cover';
+    background-position: center center; 
+    background-repeat:no-repeat;
+}
